@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+}
+.body {
+  background-color: #333;
+  color: aliceblue;
+  font-family: sans-serif;
+}
+.box {
+  width: 100px;
+  height: 100px;
+  margin-bottom: 16px;
+}
+.box1 {
+  background-color: orange;
+}
+.box2 {
+  background-color: aqua;
+  border: 5px solid purple;
+}
+.box3 {
+  background-color: blueviolet;
+  border: 10px dashed salmon;
+}
+.box4 {
+  background-color: darkcyan;
+  border-radius: 10px 30px;
+}
+.box5 {
+  background-color: lightcoral;
+  border-bottom: 15px double red;
+  border-radius: 20px 50px 10px 100px;
+}
+.box6 {
+  background-color: limegreen;
+  border-bottom: 15px double red;
+  border-radius: 20px 50px 10px 100px;
+}
