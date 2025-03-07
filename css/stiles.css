@@ -20,7 +20,7 @@
 }
 .box3 {
   background-color: blueviolet;
-  border: 10px dashed salmon;
+  border-right: 10px dashed salmon;
 }
 .box4 {
   background-color: darkcyan;
@@ -29,10 +29,10 @@
 .box5 {
   background-color: lightcoral;
   border-bottom: 15px double red;
-  border-radius: 20px 50px 10px 100px;
+  border-radius: 0px 50px 0px 0px;
 }
 .box6 {
   background-color: limegreen;
-  border-bottom: 15px double red;
+  border-left: 15px dotted orange;
   border-radius: 20px 50px 10px 100px;
 }
